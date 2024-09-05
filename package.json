@@ -1,0 +1,24 @@
+{
+  "name": "hello-npm-energeek",
+  "version": "1.0.0",
+  "description": "hello npm energeek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bakhrul/hello-npm-energeek.git"
+  },
+  "keywords": [
+    "hello",
+    "npm",
+    "energeek"
+  ],
+  "author": "energeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bakhrul/hello-npm-energeek/issues"
+  },
+  "homepage": "https://github.com/Bakhrul/hello-npm-energeek#readme"
+}
