@@ -1,6 +1,6 @@
 {
   "name": "hello-npm-energeek",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hello npm energeek",
   "main": "index.js",
   "scripts": {
